@@ -33,15 +33,13 @@ Después de completar la impresión, se procedió a introducir el marcador en la
 
 ## Generación de trayectorias
 
-Para realizar las trayectorias primero se realizó en inventor el modelo de las letras a escribir, generando un texto y extruyendolo.
+Para crear las trayectorias, inicialmente se diseñó el modelo de las letras que se iban a escribir en Inventor. Esto se logró generando un texto y extruyéndolo.
+
 <div>
 <p style = 'text-align:center;' align="center">
-<img src="" width="300px">
-  TODO poner el link de la imagen del modelo cad de las letras y el plano
+<img src="https://github.com/victordavila2311/LAB1Robotica_Manuel_Victor/assets/82252851/22d05586-68b4-40e2-84a8-a1abd7f5e610" width="300px" >
 </p>
 </div>
-
-
 
 El modelo se importó al RobotStudio y desde ahí se definió el sistema de coordenadas en el mismo sentido en el que está la herramienta, luego realizaron puntos sobre el contorno de las letras y los puntos elevados para la transición de una letra a otra, posteriormente se crearon las trayectorias correspondientes a una velocidad de 100. Cabe recalcar que en la rutina también se incluyo el movimiento desde el "home" del robot hacia las letras.
 
