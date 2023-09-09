@@ -3,8 +3,9 @@
 - Victor Manuel Dávila Castañeda.
 - Manuel Felipe Carranza Montenegro.
 ## Descripción de la solución planteada
-## Diseño de la herramienta:
-Para el diseño de la herramienta porta marcador se tuvo en cuenta que, esta no se encontrará alineada con la articulación No. 6.
+## Diseño de la Herramienta (Efector Final):
+
+Para el diseño del efector final, se consideró que no debería alinearse con la articulación número 6 del robot. Esto se hizo con el fin de reducir la probabilidad de ingresar en una singularidad que podría impedir la ejecución adecuada de la rutina, por tal motivo dicha herramienta cuenta con una inlinación de 45°.
 
 <div>
 <p style = 'text-align:center;' align="center">
@@ -12,19 +13,17 @@ Para el diseño de la herramienta porta marcador se tuvo en cuenta que, esta no 
 </p>
 </div>
 
+Modelado del Efector Final en Autodesk Inventor.
+
+Se planteó hacer la herramienta a través de impresion 3D, por lo que se procedió a diseñar el modelo en inventor para obtener los planos y el modelo STL que se exportó a Robot Studio.
+<div>
+
 <div>
 <p style = 'text-align:center;' align="center">
 <img src="https://github.com/victordavila2311/LAB1Robotica_Manuel_Victor/assets/82252851/9bc03ca1-a9e2-4eb7-ac9b-6e65cfd7f75d" width="300px" >
 </p>
 </div>
 
-Se planteó hacer la herramienta a través de impresion 3D, por lo que se procedió a diseñar el modelo en inventor para obtener los planos y el modelo STL que se exportó a Robot Studio.
-<div>
-<p style = 'text-align:center;' align="center">
-<img src="" width="300px">
-  TODO poner la imagen de la herramienta importada en el robot studio
-</p>
-</div>
 Luego de realizar la impresion se introdujo el marcador junto con una esponja con el fin de permitir un cierto grado de elasticidad para no dañar la herramienta en un posible punto mas profundo de lo esperado
 <div>
 <p style = 'text-align:center;' align="center">
