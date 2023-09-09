@@ -41,16 +41,13 @@ Para crear las trayectorias, inicialmente se diseñó el modelo de las letras qu
 </p>
 </div>
 
-El modelo se importó al RobotStudio y desde ahí se definió el sistema de coordenadas en el mismo sentido en el que está la herramienta, luego realizaron puntos sobre el contorno de las letras y los puntos elevados para la transición de una letra a otra, posteriormente se crearon las trayectorias correspondientes a una velocidad de 100. Cabe recalcar que en la rutina también se incluyo el movimiento desde el "home" del robot hacia las letras.
-
+El modelo se importó a RobotStudio y desde allí se definió el sistema de coordenadas en la misma orientación que la herramienta. Luego, se colocaron puntos a lo largo del contorno de las letras y puntos elevados para facilitar la transición entre una letra y otra. A continuación, se crearon las trayectorias correspondientes, con una velocidad de 100 unidades (por ejemplo, milímetros por segundo). Es importante mencionar que en la rutina también se incluyó el movimiento desde la posición "home" del robot hacia las letras.
 
 <div>
 <p style = 'text-align:center;' align="center">
-<img src="" width="300px">
-  TODO poner imagen de las trayectorias del cad en robot studio
+<img src="https://github.com/victordavila2311/LAB1Robotica_Manuel_Victor/assets/82252851/fde2e2e1-0896-4848-9a8b-d7463b84b075" width="300px" >
 </p>
 </div>
-
 
 El código RAPID utilizado para los dos ejercicios de escritura se encuentran dentro del repositorio, [plano sin inclinar](TODO poner el link al codigo de rapid plano) y [plano inclinado](TODO poner el link al codigo de rapid inclinado).
 
