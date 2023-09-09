@@ -68,7 +68,10 @@ alt="IMAGE ALT TEXT HERE" width="260" height="319.5" border="10" /> </a> TODO in
 
 <a href="https://youtu.be/-qRDwdd-Kuo" target="_blank"><img src="https://github.com/victordavila2311/LAB1Robotica_Manuel_Victor/blob/main/imagenes_simulacion/imagen%20implementacion.png" 
 alt="IMAGE ALT TEXT HERE" width="260" height="319.5" border="10" /></a>
--resultado del video
+
+
+-resultado del video \n
+
 
 El unico problema en el resultado de la implementacion fue que en el comienzo no salia la suficiente tinta en el marcador
 
