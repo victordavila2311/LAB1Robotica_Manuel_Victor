@@ -8,8 +8,9 @@ Para el diseño de la herramienta porta marcador se tuvo en cuenta que, esta no 
 
 <div>
 <p style = 'text-align:center;' align="center">
-<img src="https://github.com/victordavila2311/LAB1Robotica_Manuel_Victor/assets/82252851/3e54788c-fd73-4fbc-b19a-a6e3236d5a12" width="300px" >
- TODO aca toca poner el link de la herramienta
+<img src="https://github.com/victordavila2311/LAB1Robotica_Manuel_Victor/assets/82252851/3e54788c-fd73-4fbc-b19a-a6e3236d5a12" width="300px" 
+
+<img src="https://github.com/victordavila2311/LAB1Robotica_Manuel_Victor/assets/82252851/9bc03ca1-a9e2-4eb7-ac9b-6e65cfd7f75d" width="300px" >
 </p>
 </div>
 
