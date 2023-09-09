@@ -7,16 +7,15 @@
 
 Para el diseño del efector final, se consideró que no debería alinearse con la articulación número 6 del robot. Esto se hizo con el fin de reducir la probabilidad de ingresar en una singularidad que podría impedir la ejecución adecuada de la rutina, por tal motivo dicha herramienta cuenta con una inlinación de 45°.
 
+Modelado del Efector Final en Autodesk Inventor.
+
 <div>
 <p style = 'text-align:center;' align="center">
 <img src="https://github.com/victordavila2311/LAB1Robotica_Manuel_Victor/assets/82252851/3e54788c-fd73-4fbc-b19a-a6e3236d5a12" width="300px" 
 </p>
 </div>
 
-Modelado del Efector Final en Autodesk Inventor.
-
-Se planteó hacer la herramienta a través de impresion 3D, por lo que se procedió a diseñar el modelo en inventor para obtener los planos y el modelo STL que se exportó a Robot Studio.
-<div>
+Se decidió fabricar la herramienta utilizando impresión 3D, lo que llevó a la creación del modelo en Inventor. A partir de este diseño, se generaron los planos necesarios y se obtuvo el modelo en formato STL, que posteriormente se importó a Robot Studio.
 
 <div>
 <p style = 'text-align:center;' align="center">
