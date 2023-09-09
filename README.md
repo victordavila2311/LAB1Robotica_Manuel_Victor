@@ -1,7 +1,7 @@
-## Laboratorio 1 Robótica
+## Laboratorio No. 1 - Robótica Industrial
 ### Integrantes: 
-- Manuel Carranza.
-- Victor Davila.
+- Victor Manuel Dávila Castañeda.
+- Manuel Felipe Carranza Montenegro.
 ## Descripción de la solución planteada
 ## Diseño de la herramienta:
 Para el diseño de la herramienta porta marcador se tuvo en cuenta que, esta no se encontrará alineada con la articulación No. 6.
