@@ -53,7 +53,7 @@ El código RAPID utilizado para los dos ejercicios de escritura se encuentran de
 
 ## Video, simulación e implementación (hacer click en las imagenes)
 
-1)simulacion escritura en plano horizontal.
+1) Simulación escritura en Plano Horizontal.
 
 <div>
 <p style = 'text-align:center;' align="center">
@@ -62,7 +62,7 @@ alt="IMAGE ALT TEXT HERE" width="380" height="319.5" border="10" /> </a>
 </p>
 </div>
 
-2)simulacion escritura en plano inclinado.
+2) Simulación escritura en Plano Inclinado.
 
 <div>
 <p style = 'text-align:center;' align="center">
