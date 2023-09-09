@@ -80,7 +80,7 @@ alt="IMAGE ALT TEXT HERE" width="260" height="319.5" border="10" /></a>
 </p>
 </div>
 
-El unico problema en el resultado de la implementacion fue que en el comienzo no salia la suficiente tinta en el marcador y por eso la primera letra no se ve tan clara pero las letras siguientes ya se ven com se esperaba
+El único problema que se experimentó en la implementación fue que al principio no se dispensó suficiente tinta desde el marcador, lo que resultó en que la primera letra no quedara tan clara como se esperaba. Sin embargo, las letras posteriores se visualizaron según lo planeado.
 
 <div>
 <p style = 'text-align:center;' align="center">
