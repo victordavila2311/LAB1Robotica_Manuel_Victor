@@ -27,7 +27,9 @@ Luego de realizar la impresion se introdujo el marcador junto con una esponja co
   TODO poner la imagen de la herramienta con el marcador
 </p>
 </div>
+
 ## Generación de trayectorias
+
 Para realizar las trayectorias primero se realizó en inventor el modelo de las letras a escribir, generando un texto y extruyendolo.
 <div>
 <p style = 'text-align:center;' align="center">
@@ -53,3 +55,4 @@ El código RAPID utilizado para los dos ejercicios de escritura se encuentran de
 
 ## Video, simulación e implementación
 
+## Conclusiones
