@@ -57,20 +57,24 @@ El modelo se importó al RobotStudio y desde ahí se definió el sistema de coor
 El código RAPID utilizado para los dos ejercicios de escritura se encuentran dentro del repositorio, [plano sin inclinar](TODO poner el link al codigo de rapid plano) y [plano inclinado](TODO poner el link al codigo de rapid inclinado).
 
 ## Video, simulación e implementación
--simulacion escritura en plano horizontal.
+
+1)simulacion escritura en plano horizontal.
+
 <a href="" target="_blank"><img src="" 
 alt="IMAGE ALT TEXT HERE" width="260" height="319.5" border="10" /> </a> TODO incluir el video de youtube de la implementacion horizontal
--simulacion escritura en plano inclinado.
+
+2)simulacion escritura en plano inclinado.
+
 <a href="" target="_blank"><img src="" 
 alt="IMAGE ALT TEXT HERE" width="260" height="319.5" border="10" /> </a> TODO incluir el video de youtube de la implementacion inclinada
 
--implementacion en plano horizontal.
+3)implementacion en plano horizontal.
 
 <a href="https://youtu.be/-qRDwdd-Kuo" target="_blank"><img src="https://github.com/victordavila2311/LAB1Robotica_Manuel_Victor/blob/main/imagenes_simulacion/imagen%20implementacion.png" 
 alt="IMAGE ALT TEXT HERE" width="260" height="319.5" border="10" /></a>
 
 
--resultado del video \n
+resultado del video 
 
 
 El unico problema en el resultado de la implementacion fue que en el comienzo no salia la suficiente tinta en el marcador
