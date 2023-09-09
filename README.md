@@ -55,24 +55,35 @@ El código RAPID utilizado para los dos ejercicios de escritura se encuentran de
 
 1)simulacion escritura en plano horizontal.
 
+<div>
+<p style = 'text-align:center;' align="center">
 <a href="https://youtu.be/QPYjsCDeQc4" target="_blank"><img src="https://github.com/victordavila2311/LAB1Robotica_Manuel_Victor/blob/main/imagenes_simulacion/imagen%20simulacion%20horizontal.png" 
-alt="IMAGE ALT TEXT HERE" width="260" height="319.5" border="10" /> </a> TODO incluir el video de youtube de la implementacion horizontal
+alt="IMAGE ALT TEXT HERE" width="380" height="319.5" border="10" /> </a> 
+</p>
+</div>
 
 2)simulacion escritura en plano inclinado.
 
+<div>
+<p style = 'text-align:center;' align="center">
 <a href="" target="_blank"><img src="" 
 alt="IMAGE ALT TEXT HERE" width="260" height="319.5" border="10" /> </a> TODO incluir el video de youtube de la implementacion inclinada
+</p>
+</div>
 
 3)implementacion en plano horizontal.
 
+<div>
+<p style = 'text-align:center;' align="center">
 <a href="https://youtu.be/-qRDwdd-Kuo" target="_blank"><img src="https://github.com/victordavila2311/LAB1Robotica_Manuel_Victor/blob/main/imagenes_simulacion/imagen%20implementacion.png" 
 alt="IMAGE ALT TEXT HERE" width="260" height="319.5" border="10" /></a>
-
+</p>
+</div>
 
 resultado del video 
 
 
-El unico problema en el resultado de la implementacion fue que en el comienzo no salia la suficiente tinta en el marcador
+El unico problema en el resultado de la implementacion fue que en el comienzo no salia la suficiente tinta en el marcador y por eso la primera letra no se ve tan clara pero las letras siguientes ya se ven com se esperaba
 
 <div>
 <p style = 'text-align:center;' align="center">
