@@ -49,7 +49,7 @@ El modelo se importó a RobotStudio y desde allí se definió el sistema de coor
 </p>
 </div>
 
-El código RAPID utilizado para los dos ejercicios de escritura se encuentran dentro del repositorio, [plano horizontal](https://github.com/victordavila2311/LAB1Robotica_Manuel_Victor/blob/main/codigos_RAPID/plano%20horizontal/Module1.mod) y [plano inclinado](TODO poner el link al codigo de rapid inclinado).
+El código RAPID utilizado para los dos ejercicios de escritura se encuentran dentro del repositorio, [plano horizontal](https://github.com/victordavila2311/LAB1Robotica_Manuel_Victor/blob/main/codigos_RAPID/plano%20horizontal/Module1.mod) y [plano inclinado](https://github.com/victordavila2311/LAB1Robotica_Manuel_Victor/blob/main/codigos_RAPID/plano%20inclinado/Module2.mod).
 
 ## Video, simulación e implementación (hacer click en las imagenes)
 
@@ -66,8 +66,8 @@ alt="IMAGE ALT TEXT HERE" width="380" height="319.5" border="10" /> </a>
 
 <div>
 <p style = 'text-align:center;' align="center">
-<a href="" target="_blank"><img src="" 
-alt="IMAGE ALT TEXT HERE" width="260" height="319.5" border="10" /> </a> TODO incluir el video de youtube de la implementacion inclinada
+<a href="https://youtu.be/5O8jzoXYNls" target="_blank"><img src="https://github.com/victordavila2311/LAB1Robotica_Manuel_Victor/blob/main/imagenes_simulacion/imagen%20simulacion%20vertical.png" 
+alt="IMAGE ALT TEXT HERE" width="390" height="319.5" border="10" /> </a>
 </p>
 </div>
 
@@ -89,3 +89,6 @@ El único problema que se experimentó en la implementación fue que al principi
 </div>
 
 ## Conclusiones
+- La posibilidad de utilizar inventor para importar el modelo de las letras facilito de gran manera la generacion de las trayectorias.
+- Primero se realizo una prueba en simulacion con una herramienta rect que no dio resultado debido a que esto genera una gran cantidad de singularidades, por lo que se debe intentar en lo posible el usar herramientas cuyos sistemas de coordenadas tengan la menor coincidencia posible con los de los eslabones del robot.
+- los Work objects son fundamentales a la hora de realizar las trayectorias ya que aunque al cambiar el angulo del mismo generaba nuevos errores de movimiento, si facilitaba la adaptacion del robot y el codigo a nuevas trayectorias sin tener que empezar todo desde cero
