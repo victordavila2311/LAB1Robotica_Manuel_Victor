@@ -71,7 +71,7 @@ alt="IMAGE ALT TEXT HERE" width="260" height="319.5" border="10" /> </a> TODO in
 </p>
 </div>
 
-3)implementacion en plano horizontal.
+3) Implementación en Plano Horizontal.
 
 <div>
 <p style = 'text-align:center;' align="center">
