@@ -23,11 +23,11 @@ Se decidió fabricar la herramienta utilizando impresión 3D, lo que llevó a la
 </p>
 </div>
 
-Luego de realizar la impresion se introdujo el marcador junto con una esponja con el fin de permitir un cierto grado de elasticidad para no dañar la herramienta en un posible punto mas profundo de lo esperado
+Después de completar la impresión, se procedió a introducir el marcador en la herramienta, junto con una esponja. Esta elección se hizo con el propósito de proporcionar un grado de elasticidad adicional, con el fin de evitar posibles daños en caso de que el marcador penetre más profundamente de lo previsto.
+
 <div>
 <p style = 'text-align:center;' align="center">
-<img src="" width="300px">
-  TODO poner la imagen de la herramienta con el marcador
+<img src="https://github.com/victordavila2311/LAB1Robotica_Manuel_Victor/assets/82252851/678d3ef2-2f87-432c-959a-20d94432932a" width="300px" >
 </p>
 </div>
 
